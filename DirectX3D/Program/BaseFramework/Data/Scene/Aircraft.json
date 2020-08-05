@@ -1,0 +1,7 @@
+{
+	"Name":"Aircraft",
+	"Tag":3,
+	"ModelFileName":"Data/Aircraft/Aircraft_full.gltf",
+	"Pos":[0,10,0],
+	"Rot":[0,15,0]
+}

@@ -1,0 +1,24 @@
+{
+  "Hp": 100,
+  "Name": "pika",
+  "Position": [ 1, 4.78, 9 ],
+  "Speed": 1.5,
+  "monster": {
+    "hp": 20,
+    "name": "slime",
+    "pos": [ 1.1, 2.2, 3.3 ]
+  },
+  "techniques": [
+    {
+      "atk": 40,
+      "hitrate": 1,
+      "name": "ElectricShock"
+    },
+    {
+      "atk": 80,
+      "effect": "paralysis",
+      "hitrate": 0.9,
+      "name": "100,000volts"
+    }
+  ]
+}
